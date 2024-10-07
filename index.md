@@ -2,7 +2,7 @@
 title: "MyTitle."
 layout: splash
 header:
-  overlay_color: "#fff"
+  overlay_color: "#ffff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
